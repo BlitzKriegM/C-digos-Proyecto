@@ -1,3 +1,5 @@
+![image](https://github.com/BlitzKriegM/C-digos-Proyecto/assets/131490785/56536331-049d-4589-88f4-5735c8e315d7)
+
 # C-digos-Proyecto
 A lo largo de este repositorio se encontraran codigos referentes a la creacion y preprosesamiento de los datos, asi mismo se encontraran codigos referentes a tecnicas de Web Scrapping; al igual que se encontraran datos datos hasta la implementación de algoritmos avanzados de aprendizaje automático y ajuste de hiperparámetros, cada script aquí contenido refleja un componente crucial del esfuerzo de entrenamiento. Además, se incluyen ejemplos detallados y comentarios explicativos para facilitar la comprensión y reutilización de los métodos empleados. Este repositorio es un recurso valioso tanto para aquellos que buscan replicar los resultados del entrenamiento como para quienes desean aprender y explorar diversas estrategias en el campo del desarrollo de modelos.
 
