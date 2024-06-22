@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://github.com/BlitzKriegM/C-digos-Proyecto/raw/main/assets/131490785/37b76066-c440-440b-9128-b2ac8f4ef286" width="400" style="max-width:100%;">
+</p>
 
 
-![image](https://github.com/BlitzKriegM/C-digos-Proyecto/assets/131490785/37b76066-c440-440b-9128-b2ac8f4ef286)
 
-# C-digos-Proyecto
-<div style="text-align: justify;">
+<h1 align="center">A
+  <span style="font-size: 48px;">✈️ LLM RAC Implementation Copilation ✈️</span>
+</h1>
+
 
 
 A lo largo de este repositorio se encontraran codigos referentes a la creacion y preprosesamiento de los datos, asi mismo se encontraran codigos referentes a tecnicas de Web Scrapping; al igual que se encontraran datos datos hasta la implementación de algoritmos avanzados de aprendizaje automático y ajuste de hiperparámetros, cada script aquí contenido refleja un componente crucial del esfuerzo de entrenamiento. Además, se incluyen ejemplos detallados y comentarios explicativos para facilitar la comprensión y reutilización de los métodos empleados. Este repositorio es un recurso valioso tanto para aquellos que buscan replicar los resultados del entrenamiento como para quienes desean aprender y explorar diversas estrategias en el campo del desarrollo de modelos.
