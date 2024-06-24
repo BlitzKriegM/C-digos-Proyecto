@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="400" style="max-width:100/%;">
+  <img src="https://github.com/tu_usuario/tu_repositorio/blob/main/images/diagrama.png" width="400" style="max-width:100%;">
 </p>
 
 
