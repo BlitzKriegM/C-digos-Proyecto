@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://github.com/tu_usuario/tu_repositorio/blob/main/images/diagrama.png" width="400" style="max-width:100%;">
+    <img src="https://github.com/BlitzKriegM/C-digos-Proyecto/raw/main/assets/131490785/37b76066-c440-440b-9128-b2ac8f4ef286" width="400" style="max-width:100%;">
 </p>
 
-
-
-<h1 align="center">A
-  <span style="font-size: 48px;">✈️ LLM RAC Implementation Copilation ✈️</span>
+<h1 align="center">
+    <span style="font-size: 48px;">⚙️ LLM RAC Implementation Compilation ⚙️</span>
 </h1>
 
 
