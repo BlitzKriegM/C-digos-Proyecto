@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <span style="font-size: 48px;">⚙️ LLM RAC Implementation Compilation ⚙️</span>
+    <span style="font-size: 48px;">✈️ LLM RAC Implementation Compilation ✈️</span>
 </h1>
 
 
