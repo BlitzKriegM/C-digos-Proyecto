@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/BlitzKriegM/C-digos-Proyecto/raw/main/assets/131490785/37b76066-c440-440b-9128-b2ac8f4ef286" width="400" style="max-width:100%;">
+    <img src="https://github.com/BlitzKriegM/C-digos-Proyecto/blob/db698ce9531b53cf61bad73030c0711552ae8483/WhatsApp%20Image%202024-06-24%20at%2011.27.31.jpeg" width="400" style="max-width:100%;">
 </p>
 
 <h1 align="center">
