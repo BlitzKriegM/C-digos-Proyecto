@@ -8,7 +8,7 @@
 
 
 
-Este repositorio es una recopilación exhaustiva y detallada de códigos y recursos destinados a abordar cada etapa del desarrollo y entrenamiento de modelos de aprendizaje automático, específicamente en el contexto de la implementación de la Regulación Aeronáutica Colombiana (RAC) utilizando un modelo de lenguaje a gran escala (LLM).
+Este repositorio es una recopilación íntegra de códigos y recursos destinados a abordar cada etapa del desarrollo y entrenamiento de modelos de aprendizaje automático, específicamente en el contexto de la implementación de la Regulación Aeronáutica Colombiana (RAC) utilizando un modelo de lenguaje a gran escala (LLM).
 
 A lo largo de este repositorio, encontrarás una amplia variedad de scripts y ejemplos que cubren desde la creación y preprocesamiento de datos, hasta técnicas avanzadas de web scraping. Cada uno de estos componentes ha sido cuidadosamente documentado y comentado para facilitar su comprensión y reutilización.
 
