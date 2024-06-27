@@ -8,27 +8,27 @@
 
 
 
-Este repositorio es una recopilación exhaustiva de códigos y recursos relacionados con la creación y preprocesamiento de datos, técnicas de web scraping, implementación de algoritmos avanzados de aprendizaje automático y ajuste de hiperparámetros. Cada script contenido en este repositorio representa un componente esencial del proceso de entrenamiento y desarrollo de modelos.
+Este repositorio es una recopilación exhaustiva y detallada de códigos y recursos destinados a abordar cada etapa del desarrollo y entrenamiento de modelos de aprendizaje automático, específicamente en el contexto de la implementación de la Regulación Aeronáutica Colombiana (RAC) utilizando un modelo de lenguaje a gran escala (LLM).
 
-**Contenido del Repositorio.**
+A lo largo de este repositorio, encontrarás una amplia variedad de scripts y ejemplos que cubren desde la creación y preprocesamiento de datos, hasta técnicas avanzadas de web scraping. Cada uno de estos componentes ha sido cuidadosamente documentado y comentado para facilitar su comprensión y reutilización.
 
-**Creación y Preprocesamiento de Datos:** Scripts detallados que demuestran cómo se prepararon los datos para su uso en modelos de aprendizaje automático.
+**Creación y Preprocesamiento de Datos.**
+Los scripts de esta sección están diseñados para preparar los datos necesarios para entrenar modelos de aprendizaje automático. Aquí se incluye la limpieza, transformación y estructuración de datos provenientes de múltiples fuentes. Estos procesos son esenciales para garantizar la calidad y la relevancia de los datos utilizados en los modelos.
 
-**Técnicas de Web Scraping:** Códigos para la recolección de datos desde diversas fuentes web, proporcionando ejemplos claros y prácticos de cómo extraer información valiosa.
+**Técnicas de Web Scraping.**
+Esta sección proporciona códigos detallados para la recolección de datos desde diversas fuentes web. Utilizando técnicas avanzadas de web scraping, los scripts permiten extraer información valiosa y relevante que puede ser utilizada para enriquecer los conjuntos de datos existentes. Cada técnica está explicada con ejemplos prácticos que muestran cómo manejar los desafíos comunes del web scraping, como la paginación y la gestión de sesiones.
 
-**Implementación de Algoritmos Avanzados:** Ejemplos de cómo se implementaron y optimizaron diversos algoritmos de aprendizaje automático, incluyendo comentarios explicativos para facilitar su comprensión y reutilización.
+**Implementación de Algoritmos Avanzados de Aprendizaje Automático.**
+En esta parte del repositorio, encontrarás ejemplos de cómo se implementaron y optimizaron diversos algoritmos avanzados de aprendizaje automático. Los scripts incluyen métodos como redes neuronales, modelos de regresión, árboles de decisión y algoritmos de clustering. Cada ejemplo está acompañado de comentarios detallados que explican el propósito y el funcionamiento de cada paso del proceso.
 
-**Ajuste de Hiperparámetros:** Métodos y técnicas utilizados para encontrar los mejores parámetros para los modelos, optimizando su rendimiento.
+**Ajuste de Hiperparámetros:**
+El ajuste de hiperparámetros es crucial para mejorar el rendimiento de los modelos de aprendizaje automático. En esta sección, se presentan métodos y técnicas utilizados para encontrar los mejores parámetros para los modelos. Los scripts proporcionan ejemplos de cómo utilizar técnicas como la búsqueda en cuadrícula, la búsqueda aleatoria y la optimización bayesiana para ajustar los hiperparámetros de manera eficiente.
 
-**Características Adicionales.**
+**Ejemplos Detallados y Comentarios Explicativos.**
+Para facilitar la comprensión y reutilización de los métodos empleados, cada script en este repositorio incluye ejemplos detallados y comentarios explicativos. Estos recursos están diseñados para ser educativos y prácticos, permitiendo a los usuarios replicar los resultados del entrenamiento y explorar diversas estrategias en el desarrollo de modelos.
 
-**Ejemplos Detallados:** Se incluyen ejemplos prácticos y detallados en cada sección para ilustrar los métodos empleados.
-
-**Comentarios Explicativos:** Cada script contiene comentarios explicativos que facilitan la comprensión de los métodos y técnicas utilizados.
-
-**Propósito.**
-
-Este repositorio es un recurso valioso tanto para quienes desean replicar los resultados del entrenamiento como para aquellos interesados en aprender y explorar diversas estrategias en el desarrollo de modelos de aprendizaje automático. Proporciona una base educativa y práctica para desarrolladores, investigadores y entusiastas del aprendizaje automático.
+**Propósito del Repositorio.**
+Este repositorio es un recurso invaluable tanto para aquellos que buscan replicar los resultados del entrenamiento como para quienes desean aprender y explorar diversas estrategias en el campo del desarrollo de modelos de aprendizaje automático. Proporciona una base educativa y práctica para desarrolladores, investigadores y entusiastas del aprendizaje automático.
 
 Cada sección del repositorio está diseñada para ser educativa y práctica, proporcionando un recurso integral para desarrolladores, investigadores y entusiastas del aprendizaje automático.
 </div>
